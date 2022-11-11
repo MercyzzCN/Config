@@ -1,2 +1,2 @@
 # Config
-Upload Hack Config.
+Upload Config.
